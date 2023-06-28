@@ -40,7 +40,7 @@ Retrieving a list of all notifications
 Updating an existing notifications by id
 Deleting a notification by id
 
-### testsaaaaa
+### tests
 Run 'npm test' in the terminal to run tests.
 
 
